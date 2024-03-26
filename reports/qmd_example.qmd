@@ -31,8 +31,7 @@ between 1906 and 1972 for each province.
 Data
 
 Horse population data were sourced from the 
-[Government of Canada's Open Data website](http://open.canada.ca/en/open-data) 
-[@GovCanada].
+[Government of Canada's Open Data website](http://open.canada.ca/en/open-data).
 
 Methods
 
@@ -78,7 +77,7 @@ Additionally, note that in @tbl-horses-sd we consider the sample standard deviat
 
 ![Horse populations for the province with the largest standard deviation](../results/horse_pops_plot_largest_sd.png){#fig-horse-pops-plot-largest-sd width=60%}
 
-In @fig-horse-pops-plot-largest-sd we zoom in and look at the province of `{python}largest_sd`, which had the largest spread of values in terms of standard deviation.
+In @fig-horse-pops-plot-largest-sd we zoom in and look at the province of {largest_sd}, which had the largest spread of values in terms of standard deviation.
 
 
 ## References
